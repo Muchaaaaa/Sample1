@@ -1,0 +1,32 @@
+body{
+    background-color:dark purple;
+}
+
+h1{
+    text-align:center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+h2{
+    text-align: left;
+    font-size:x-large;
+    font-family: fantasy;
+    font-weight: 300;
+}
+
+h3{
+    text-align: left;
+    font-family: monospace;
+    font-size: large;
+}
+
+.p{
+    background-color:grey;
+  color:red;
+  border: 2px dark purple;
+  margin: 20px;
+  padding: 20px;
+  
+}
